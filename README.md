@@ -25,6 +25,8 @@
 <br />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+
 ```javascript
 const techStack = {
    code: [Javascript,Python, Csharp, HTML, CSS],
